@@ -1,0 +1,36 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	margin: 0;
+	background: #efefef;
+}
+
+header {
+	background: #ca3a4f;
+	padding: 15px 0;
+}
+
+main {
+  font-family: "Ropa Sans", sans-serif;
+  text-align: center;
+}
+
+.site-heading {
+	color: #fff;
+	margin: 0;
+}
+
+.site-heading small {
+	color: #d4afb3;
+	font-size: 14px;
+	margin-left: 5px;
+}
+
+.loader {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	min-height: 200px;
+}
